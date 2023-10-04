@@ -1,0 +1,7 @@
+.first-nav {
+    font-size: 12px !important;
+}
+.navbar {
+    flex-grow: 1 !important;
+    justify-content: space-between !important;
+}

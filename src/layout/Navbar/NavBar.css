@@ -1,0 +1,42 @@
+.labelText {
+    font-weight: 1000 !important;
+    font-size: 20px !important;
+}
+.secondLabelText {
+    font-weight: 400 !important;
+    font-size: 20px !important;
+    color: #928f8f !important;
+}
+.shop-hyperlinks {
+    font-weight: 600 !important;
+    .nav-link {
+        color: #333 !important;
+        font-weight: 600 !important;
+        .fas {
+            font-weight: 400 !important;
+        }
+    }
+
+}
+.font-24 {
+    font-size: 24px !important;
+    color: #333 !important;
+    font-weight: 400 !important;
+}
+.shop-nav {
+    background-color: #333 !important;
+    color: #fff !important;
+    justify-content: center !important;
+    font-size: 13px !important;
+    font-weight: 400 !important;
+    padding-top: 10px !important;
+    .navbar {
+        justify-content: center !important;
+        /* padding-top: 10px !important; */
+    }
+}
+.shopNow {
+    color: antiquewhite !important;
+    text-decoration: underline;
+    margin-top: -8px !important;
+}
